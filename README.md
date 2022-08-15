@@ -18,4 +18,6 @@ Everything under AuthenticationController, what UserManager<User>, RoleManager<R
 
 async/await
 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/32447605/184677035-aa467c73-a4fc-48c3-a098-37c65ddac3f2.png">
+Testing + Builders
+
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/32447605/184679953-7018fde2-eab6-4cd3-902c-2220832867b1.png">
